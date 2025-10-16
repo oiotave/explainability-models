@@ -16,7 +16,7 @@ Método baseado na Teoria dos Valores de Shapley, originada da Teoria dos Jogos,
 
 ### 3. DiCE (Diverse Counterfactual Explanations)
 
-Ferramenta voltada para gerar explicações contrafactuais — pequenas alterações nos atributos de entrada que fariam o modelo mudar sua predição.
+Ferramenta voltada para gerar explicações contrafactuais, pequenas alterações nos atributos de entrada que fariam o modelo mudar sua predição.
 
 ## Colaboradores
 
